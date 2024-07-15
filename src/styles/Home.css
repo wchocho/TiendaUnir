@@ -1,0 +1,9 @@
+/* src/styles/Home.css */
+.home {
+    text-align: center;
+    margin: 2rem;
+}
+
+.home h1 {
+    color: #333;
+}

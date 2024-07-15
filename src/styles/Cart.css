@@ -1,0 +1,33 @@
+/* src/styles/Cart.css */
+.cart {
+    padding: 2rem;
+}
+
+.cart-item {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin: 1rem 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cart-item h2 {
+    font-size: 1.25rem;
+    color: #333;
+}
+
+.cart-item p {
+    color: #666;
+}
+
+.cart-item button {
+    background-color: #ff0000;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+.cart-item button:hover {
+    background-color: #cc0000;
+}

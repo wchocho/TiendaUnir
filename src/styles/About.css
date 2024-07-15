@@ -1,0 +1,9 @@
+/* src/styles/About.css */
+.about {
+    text-align: center;
+    margin: 2rem;
+}
+
+.about h1 {
+    color: #333;
+}
