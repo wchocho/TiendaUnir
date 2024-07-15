@@ -1,4 +1,4 @@
-// src/components/Checkout.js
+
 import React, { useState } from 'react';
 import '../styles/Checkout.css';
 
